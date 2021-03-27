@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.610729ae.chunk.css",
+    "main.js": "/static/js/main.52cdeafa.chunk.js",
+    "main.js.map": "/static/js/main.52cdeafa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5c35d4a5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5c35d4a5.js.map",
+    "static/js/2.ea2c0d07.chunk.js": "/static/js/2.ea2c0d07.chunk.js",
+    "static/js/2.ea2c0d07.chunk.js.map": "/static/js/2.ea2c0d07.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.610729ae.chunk.css.map": "/static/css/main.610729ae.chunk.css.map",
+    "static/js/2.ea2c0d07.chunk.js.LICENSE.txt": "/static/js/2.ea2c0d07.chunk.js.LICENSE.txt",
+    "static/media/Circle.e39be0e0.png": "/static/media/Circle.e39be0e0.png",
+    "static/media/lapsha1.b3983f5d.png": "/static/media/lapsha1.b3983f5d.png",
+    "static/media/lapsha2.3e8c30cd.png": "/static/media/lapsha2.3e8c30cd.png",
+    "static/media/monti3.67878068.png": "/static/media/monti3.67878068.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c35d4a5.js",
+    "static/js/2.ea2c0d07.chunk.js",
+    "static/css/main.610729ae.chunk.css",
+    "static/js/main.52cdeafa.chunk.js"
+  ]
+}
